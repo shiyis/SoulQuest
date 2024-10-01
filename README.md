@@ -1,4 +1,4 @@
-# ttc
+# SoulQuest
 
 
 To design a simple **Question-Answer (QA) model** that can provide **spiritual guidance** using scriptures from the **Bible** or the **Book of Mormon**, the approach would involve building a **scripture-based retrieval system**. Here's an outline of how you can structure this model, keeping it simple but effective.
